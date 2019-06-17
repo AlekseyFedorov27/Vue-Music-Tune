@@ -1,10 +1,12 @@
 # musictunes
-
-## Project setup
-```
 ## See [DEMO](https://alekseyfedorov.ru/vuemusic).
 # vue-cli
 ![SPA, PWA](https://github.com/AlekseyFedorov27/Vue-Music-Tune/blob/master/Music%20Vue.png "DEMO weather")
+
+
+## Project setup
+```
+
 ```
 
 ### Compiles and hot-reloads for development
