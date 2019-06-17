@@ -2,6 +2,8 @@
 
 ## Project setup
 ```
+##DEMO https://alekseyfedorov.ru/vuemusic/
+![SPA, PWA](https://github.com/AlekseyFedorov27/Vue-Music-Tune/blob/master/Music%20Vue.png")
 npm install
 ```
 
