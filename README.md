@@ -1,5 +1,5 @@
 # Music Tunes
-### Vue - pwa
+### Vue - pwa REST API 
 ## See [DEMO](https://alekseyfedorov.ru/vuemusic).
 # vue-cli
 ![SPA, PWA](https://github.com/AlekseyFedorov27/Vue-Music-Tune/blob/master/Music%20Vue.png "DEMO weather")
